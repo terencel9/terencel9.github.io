@@ -19,7 +19,13 @@
     background-colour: white;
 }
 
-.my-strong{
+.my-paragraph {
+    font-size: 3rem;
+    font-weight: 100;
+    color: white
+}
+.my-strong {
 
 text-shadow: 2px 2px 0 orangered; 
+
 }
