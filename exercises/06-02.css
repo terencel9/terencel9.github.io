@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400,900 ');
+
+.my-container{
+    border: 1px solid #aaaaaa;
+    background-color: white;
+    max-width: 400px;
+    margin: 110px auto 10px auto;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px rgba(0,0,0,1);
+    font-family: "Lato";
+
+}
+
+.my-container h1{
+    text-align: center; 
+}
+.my-face{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+    border: 1px solid red;
+    margin-top: -50px; 
+}
+
+.my-hr{
+    max-width: 300px;
+    border: 10px solid orangered;
+}
+.my-body{
+    background-image: url('("terencel9.github.io/exercises/stripes.png")';
+
+}

@@ -1,0 +1,29 @@
+.class-a{
+    color: red;
+height: 50vh;
+
+}
+
+.class-b{
+    background-color: blue;
+}
+
+
+.class-a div {
+    color: black;
+
+}
+
+.class-a .class-b .class-c {
+    color:yellow;
+
+}
+
+.image-background{
+    background-color: grey; 
+    background-image: url('http://stackup.sg/assets/stackup_logo.svg');
+    padding: 50px; 
+    background-repeat: no-repeat; 
+    background-size: contain; 
+
+}
