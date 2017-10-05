@@ -1,0 +1,15 @@
+
+
+
+
+
+var pricex; 
+var age = 20; 
+var children = false; if (<10) {  price = "children"; } 
+else if (10<age<20){    price = "adult"; } else {    price = "senior"; }
+
+console.log (price)
+if (children) {price = 10;
+} else (adult){price = 30;
+} else (senior) {price=20;
+}
